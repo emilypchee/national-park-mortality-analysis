@@ -1,6 +1,6 @@
 # National Park Service — Mortality Analytics Dashboard
 
-![Dashboard Overview](images/Demographics.png)
+![Dashboard Overview](images/Causes_of_Death.png)
 
 ## Overview
 
@@ -63,9 +63,14 @@ Built on NPS incident/mortality records spanning CY2007–Feb 2026. Key dimensio
 
 ## Dashboard Preview
 
-| Demographics | Trends | Causes of Death |
-|---|---|---|
-| ![Demographics](images/Demographics.png) | ![Trends](images/Trends.png) | ![Causes of Death](images/Causes_of_death.png) |
+### Demographics
+![Demographics](images/Demographics.png)
+
+### Temporal Trends
+![Trends](images/Trends.png)
+
+### Causes of Death
+![Causes of Death](images/Causes_of_Death.png)
 
 ## About
 
