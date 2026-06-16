@@ -72,6 +72,7 @@ Built on NPS incident/mortality records spanning CY2007–Feb 2026. Key dimensio
 ### Causes of Death
 ![Causes of Death](images/Causes_of_Death.png)
 
+
 ## About
 
 Built to explore public safety patterns in the US National Park system using
