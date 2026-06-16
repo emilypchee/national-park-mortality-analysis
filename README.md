@@ -8,7 +8,7 @@ This Power BI dashboard analyzes visitor fatality data across US National Parks
 from 2007 through February 2026, covering 4,931 deaths across 206 parks.
 
 The analysis surfaces mortality patterns by demographics, cause of death, activity
-type, time trends, and geographic concentration — giving a comprehensive picture
+type, time trends, and geographic concentration. The Power BI dashboard provides a comprehensive picture
 of where, when, and how fatal incidents occur within the National Park system.
 
 ## Questions Explored
